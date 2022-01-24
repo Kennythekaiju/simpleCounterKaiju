@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counterContainer div {
+    display: inline-block;
+    font-size: 60px;
+    line-height: 80px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+}
